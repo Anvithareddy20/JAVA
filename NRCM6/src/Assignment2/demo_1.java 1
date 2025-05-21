@@ -1,0 +1,15 @@
+package nrcm;
+ 
+public class demo_1{
+
+	public static void main(String[] args) {
+		int a[]= {1,3,5,7,11,13,17,19};
+		for(int x:a) {
+			System.out.println(x);
+		int n=20 
+			System.out.println(n);
+		}
+	}
+}
+
+

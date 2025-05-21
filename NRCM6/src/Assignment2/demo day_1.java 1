@@ -1,0 +1,18 @@
+package nrcm;
+ 
+public class demo_1{
+
+	public static void main(String[] args) {
+		String color="orange";
+		switch(color) {
+		case "red":
+			System.out.println("celebrate holi");
+			break;
+		case "green":
+			System.out.println("celebarte dasara");
+			break;
+		case "black":
+			System.out.println ("celebrate diwali");
+		}
+	} 
+}
